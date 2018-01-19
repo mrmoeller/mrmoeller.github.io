@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my website, my dude
 
 You can use [google](https://www.google.com/) to google stuff.
 
