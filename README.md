@@ -25,9 +25,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [this link right here](https://www.youtube.com/watch?v=ZZ5LpwO-An4).
 
-### Jekyll Themes
+### I don't think I want to use this theme.  I think I want to make my own theme.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrmoeller/mrmoeller.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
