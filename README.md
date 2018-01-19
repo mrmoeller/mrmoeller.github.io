@@ -2,12 +2,11 @@
 
 You can use [google](https://www.google.com/) to google stuff.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Or you can just look at this picture of a grizzly bear [picture](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiA-tyzm-PYAhVDKKwKHYtADNoQjRwIBw&url=https%3A%2F%2Fwww.express.co.uk%2Fnews%2Fnature%2F453765%2FI-m-not-such-a-grizzly-bear-cub-gives-a-wave-in-adorable-snapshot&psig=AOvVaw3JaBbOcBwjtDLNVPaJUdak&ust=1516423353297619) to see what a bear really looks like.
 
-### Markdown
+### Title
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+This is an example inside the title.  We're using something called Markdown.
 ```markdown
 Syntax highlighted code block
 
