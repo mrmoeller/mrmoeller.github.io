@@ -2,7 +2,7 @@
 
 You can use [google](https://www.google.com/) to google stuff.
 
-Or you can just look at this video of a grizzly bear [video](https://www.youtube.com/watch?v=O6Xo21L0ybE) to see what a bear really looks like.
+Or you can just look at this grizzly bear [video](https://www.youtube.com/watch?v=O6Xo21L0ybE) to see what a bear really looks like.
 
 ### Title
 
