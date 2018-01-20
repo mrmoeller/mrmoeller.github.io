@@ -1,10 +1,10 @@
-## Welcome to my website, my dude
+## Welcome to Mr. Moeller's Website!
 
 You can use [google](https://www.google.com/) to google stuff.
 
 Or you can just look at this grizzly bear [video](https://www.youtube.com/watch?v=O6Xo21L0ybE) to see what a bear really looks like.
 
-### Title
+### About Me:
 
 This is an example inside the title.  We're using something called Markdown.
 ```markdown
